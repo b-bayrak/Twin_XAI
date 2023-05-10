@@ -12,8 +12,6 @@ This command will start a local webserver, deploy the myCBR project and expose i
 
 Once the installation is done and the API is running, the API will be accessibleat http://localhost:8080/swagger-ui.html#. To verify that the API is up and running, please check that you can see the swagger documentation page for the API.
 
-![image](https://user-images.githubusercontent.com/22470440/186938749-544d7a95-c8dc-4b6c-be60-62d1de45b03b.png)
-
 ## Experiments
 
 ### Necessary files to run the Experiments
