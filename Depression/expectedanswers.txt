@@ -1,0 +1,103 @@
+Question ** Value
+1. Most of the time I have difficulty concentrating on simple tasks **TRUE
+2. I don't feel like doing my daily chores **TRUE
+3. My friends or family have told me that I look different **TRUE
+4. When I think about the future it is hard for me to imagine it clearly **TRUE 
+5. People around me often ask me how I feel **TRUE
+6. I consider my life to be full of good things **FALSE
+7. My hobbies continue to be important to me **FALSE
+8. I am still as punctual as I have always been **FALSE
+9. If I had the chance, I would spend the whole day in my bed **TRUE
+10. I have found that I can spend a lot of time scrolling the screen of my cell phone without looking for or stopping on anything in particular **TRUE
+11. When I am asked a question, I have noticed that it takes me longer than usual to answer it **TRUE
+12. I have noticed that my body shakes for no reason at all **TRUE
+13. I used to feel more animated to do my daily activities **TRUE
+14. Sometimes I wake up sad and I can't explain why **TRUE
+15. In the last few months I often reproach myself for things from the past **TRUE
+16. I think my thoughts are strange or different from before **TRUE 
+17. I feel guilty about decisions I have made **TRUE
+18. I don't feel as comfortable with my body as I used to feel **TRUE
+19. I do not feel successful compared to others **TRUE
+20. It is difficult for me to make decisions, even if they are simple **TRUE
+21. I'm capable of achieving what I propose to myself **FALSE
+22. I do not find it difficult to understand something the first time **TRUE
+23. I have thought more about what my death would be like than I have in the past **TRUE
+24. Being dead seems to be a solution to some problems **TRUE
+25. I prefer to stay home than to go out with my friends **TRUE
+26. I like to attend family gatherings **FALSE
+27. I feel enthusiastic when I think about my life plans **FALSE
+28. The decisions I have made up to now have been the right ones **FALSE
+29. I am able to carry out my activities as I have always been **FALSE
+30. I like to stay in touch with my friends and family through social networks **FALSE
+31. It is easy for me to choose a picture of myself to show on social networks **FALSE
+32. I am proud of what I have achieved so far **FALSE
+33. I have a hard time remembering things easily **TRUE
+34. In the past few months I have had arguments with my school and/or work colleagues **TRUE
+35. I constantly imagine that something will go wrong at work and/or at school **TRUE
+36. I am afraid of making mistakes when I do my homework **TRUE
+37. I don't worry so much about what will happen in a few weeks **FALSE
+38. Lately, it has been hard for me to calm down **TRUE
+39. Everything will work out **FALSE
+40. I can easily go blank in my mind **FALSE
+41. I am bothered by insignificant things that used to be unimportant **TRUE
+42. I find it uncomfortable to be in a space where there are a lot of people **TRUE
+43. Sometimes I feel trapped **TRUE
+44. I am easily startled by unexpected noises **TRUE
+45. I have difficulty doing one task at a time **TRUE
+46. I have the feeling that I am forgetting to do something **TRUE
+47. I can express clearly to others how I am feeling **FALSE
+48. I can sleep easily **FALSE
+49. I enjoy every moment of the day **FALSE
+50. I can imagine that a natural disaster could happen at any time **TRUE
+51. Sometimes I feel that I get tired easily **TRUE
+52. Getting stuck in an elevator would be one of the worst things that could happen to me **TRUE
+53. I get annoyed by people who walk slowly on the street in front of me **TRUE 
+54. I don't usually get upset if something doesn't go as I expected it to **FALSE
+55. Sometimes it is as if some conversations with friends or family members turn into interrogations **TRUE
+56. I manage my schedule as I have always done **FALSE
+57. It makes me uncomfortable to feel people on the street approaching me **TRUE
+58. I have no difficulty understanding what people explain to me **FALSE
+59. I consider myself to be good at controlling my emotions **FALSE
+60. In new situations, I feel calm and cheerful **FALSE
+61. Sometimes I forget what I wanted to say because I have several thoughts going on at once **TRUE
+62. I would like to know what is going to happen in the future **TRUE
+63. When I get angry I can easily blow up **TRUE
+64. I can put down my cell phone and read without distractions **FALSE
+65. I worry that people won't understand what I mean **TRUE
+66. Sometimes I do not listen to what people say to me because I am thinking about other things **TRUE
+67. I get angry easily **TRUE
+68. I am afraid that something bad might happen to me **TRUE
+69. It is not important for me to meet deadlines **TRUE
+70. I like to think clearly before I give my opinion **FALSE
+71. I use lies just to get out of some problems **TRUE
+72. If I have the opportunity to get in a line so as not to waste time, I do it **TRUE
+73. I have difficulty making elaborate plans **TRUE
+74. People get into trouble because of me **TRUE
+75. I do not find it important what others think about me **TRUE
+76. Laws are not as important as others think they are **TRUE
+77. I would be sorry if I betrayed a friend **FALSE
+78. I would prefer that a negotiation support the largest possible number of people involved **FALSE
+79. I find it easy to work in a team **FALSE
+80. It is important to help people when they need it **FALSE
+81. I have hit someone or thought about hitting someone **TRUE
+82. If necessary, I would impersonate someone else to get something **TRUE
+83. I consider it important to look out for my physical safety and the safety of those around me **TRUE
+84. After an argument I tend to go over what happened in my head **FALSE 
+85. I have difficulty controlling myself when I get angry **TRUE
+86. Loyalty is important **FALSE
+87. If I can help a person, I stop to do so **FALSE
+88. Sometimes people need physical force to understand **TRUE
+89. It makes me laugh when my superiors at school or at work make demands on me **TRUE
+90. Tricking people is not wrong if it is to achieve something important **TRUE 
+91. I like to say hello to my neighbors **FALSE
+92. I don't think it is a bad thing to have some debts **TRUE
+93. People steal because they have needs **TRUE
+94. I lose control easily **TRUE
+95. Neighbors should put up with each other's noise without complaining **TRUE 
+96. Littering is wrong **FALSE
+97. People who commit crimes have their reasons for doing it **TRUE
+98. It is normal to change jobs several times a year **TRUE
+99. It is important to respect shifts **FALSE
+100. I could impersonate someone else to get what I want **TRUE
+101. I think it is important for everyone to have the same rights **FALSE
+102. I have a hard time taking "no" for an answer **TRUE
