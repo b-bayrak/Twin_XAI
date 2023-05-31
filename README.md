@@ -1,4 +1,4 @@
-This repository provides reproducible benchmarking experiments of A Twin XCBR System Using Supportive and Contrastive Explanations' paper and open-source implementation of the proposed approach and evaluation metric.
+This repository provides reproducible benchmarking experiments of '_A Twin XCBR System Using Supportive and Contrastive Explanations_' paper and open-source implementation of the proposed approach and evaluation metric.
 
 ## Instructions to run the contribution
 First clone the repository and then follow the instructions below
