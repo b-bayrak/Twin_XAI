@@ -1,15 +1,15 @@
 This repository provides reproducible benchmarking experiments of '_A Twin XCBR System Using Supportive and Contrastive Explanations_' paper and open-source implementation of the proposed approach and evaluation metric.
 
 ## Instructions to run the contribution
-First clone the repository and then follow the instructions below
+First, clone the repository and then follow the instructions below
 ### myCBR API
-This project requires to run the myCBR Rest API. Therefore you will need to have Java 8 JRE on your computer and download the following jar: https://folk.idi.ntnu.no/kerstinb/mycbr/mycbr-rest/mycbr-rest-2.0.jar
+This project requires to run the myCBR Rest API. Therefore, you will need to have Java 8 JRE on your computer and download the following jar: https://folk.idi.ntnu.no/kerstinb/mycbr/mycbr-rest/mycbr-rest-2.0.jar
 Make sure to add the jar file to the myCBR folder.
 
 This jar is built using this repository https://github.com/ntnu-ai-lab/mycbr-rest
 
 #### Starting the API
-We assume that you have cloned the GitHub repository and added the mycbr-rest-2.0.jar into the mycbr folder of this repository. Then in the terminal, navigate to the cloned project folder. 
+We assume that you have cloned the GitHub repository and added the mycbr-rest-2.0.jar into the mycbr folder of this repository. Then, in the terminal, navigate to the cloned project folder. 
 
 Then go into the mycbr folder and run the following command:
 ```
@@ -17,7 +17,7 @@ java -DMYCBR.PROJECT.FILE=PROJECT_FILE.prj -jar mycbr-rest-2.0.jar
 ```
 This command will start a local webserver, deploy the myCBR project and expose it's endpoints via a Rest API. We assume that this server is running in the background while the experiments notebooks are run.
 
-#### Accesing API
+#### Accessing API
 
 Once the installation is done and the API is running, the API will be accessibleat http://localhost:8080/swagger-ui.html#. To verify that the API is up and running, please check that you can see the swagger documentation page for the API.
 
@@ -27,8 +27,8 @@ Once the installation is done and the API is running, the API will be accessible
 ### Running the experiements
 #### Necessary files to run the Experiments
 
-To run our experiments we provide 'WineQuality' and 'Depression' folders with a number of files. The folders consists of experiments and the following folders to reproduce the experiments:
-- project/: contains project files that are modelled for the experiments. 
+To run our experiments we provide 'WineQuality' and 'Depression' folders with a number of files. The folders consist of experiments and the following folders to reproduce the experiments:
+- project/: contains project files that are modeled for the experiments. 
 - data/: contains the train and test .csv files needed for the experiments. Those are created based on the given datasets. They are the results after we conducted the first set of experiments to find a good split of the provided data. 
 - model/: contains the .pkl files for the BB models used in the experiments.
 - shap/: contains the shap values per class .csv files needed to create the global similarity functions of the CBR agents.
